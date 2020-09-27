@@ -8,3 +8,4 @@ D:\GitHub\HotelReservations\CommonUtility\bin\Debug\CommonUtility.pdb
 D:\GitHub\HotelReservations\CommonUtility\obj\Debug\CommonUtility.csproj.CoreCompileInputs.cache
 D:\GitHub\HotelReservations\CommonUtility\obj\Debug\CommonUtility.dll
 D:\GitHub\HotelReservations\CommonUtility\obj\Debug\CommonUtility.pdb
+D:\GitHub\HotelReservations\CommonUtility\obj\Debug\CommonUtility.csprojAssemblyReference.cache

@@ -107,7 +107,7 @@ namespace HotelReservations
             {
                 Console.Write($"Room{i} | ");
 
-                for (int j = 0; j < maxEndDate; j++)
+                for (int j = 0; j <= maxEndDate; j++)
                     Console.Write($"{this.Rooms[i, j]} ");
 
                 Console.WriteLine("");
